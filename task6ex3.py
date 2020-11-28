@@ -10,3 +10,15 @@ if(value>0):
         print(fibon(i))
 else:
     print("Enter a positive value,Thank you!")
+
+    OUTPUT:
+        Enter the no.of terms:8
+        Fibonacci sequence is:
+        0
+        1
+        1
+        2
+        3
+        5
+        8
+        13
