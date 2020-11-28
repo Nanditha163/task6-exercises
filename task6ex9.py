@@ -20,3 +20,52 @@ elif ch==4:
     print("div is:",c)
 else:
     print("Invalid option")
+    
+    
+    
+    OUTPUT:
+  Calculator
+1.Addition
+2.Subtraction
+3.Multiplication
+4.Division
+enter your choice:1
+Enter value of a:234
+Enter value of b:353
+sum is: 587
+    
+    
+    
+    Calculator
+1.Addition
+2.Subtraction
+3.Multiplication
+4.Division
+enter your choice:2
+Enter value of a:1928
+Enter value of b:1315
+sub is: 613
+    
+    
+    
+    Calculator
+1.Addition
+2.Subtraction
+3.Multiplication
+4.Division
+enter your choice:3
+Enter value of a:289
+Enter value of b:123
+mul is: 35547
+
+    
+    Calculator
+1.Addition
+2.Subtraction
+3.Multiplication
+4.Division
+enter your choice:4
+Enter value of a:360
+Enter value of b:6
+div is: 60
+
