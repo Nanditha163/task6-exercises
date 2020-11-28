@@ -9,3 +9,13 @@ if num==sum:
       print(num,"It is an armstrong number!")
 else:
       print(num,"It is not an armstrong number")
+        
+        
+        OUTPUT:
+       1.   Enter an number:153
+            153 It is an armstrong number!
+            
+            
+       2.   Enter an number:120
+            120 It is not an armstrong number
+
